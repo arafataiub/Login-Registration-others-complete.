@@ -1,2 +1,2 @@
-# Login-Registration-others-complete using php
+# Login-Registration-others-complete with session and cookie using php
 .
